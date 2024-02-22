@@ -1,16 +1,8 @@
-# registration
+# SignIn
+![image](https://github.com/avan2urist/BestWindowReg/assets/156675394/df81f370-7b41-41a5-95d2-f8276b7e635d)
 
-A new Flutter project.
 
-## Getting Started
+## SignUp
+![image](https://github.com/avan2urist/BestWindowReg/assets/156675394/8d604e95-a7d2-4835-8d0d-fee68e48ffb6)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
